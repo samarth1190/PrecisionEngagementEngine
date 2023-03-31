@@ -1,0 +1,29 @@
+@import url('https://fonts.google.com/specimen/Open+Sans');
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  align-items: center;
+  background-color: black;
+  color: white;
+}
+
+.logo {
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.navbar-options {
+  display: flex;
+  gap: 25px;
+  font-size: 18px;
+  cursor: pointer;
+}
+.text {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 16px;
+  letter-spacing: 0.1em;
+}
